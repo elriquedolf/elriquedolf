@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Elrique
 
-Junior mobile app and web developmer
-development
+Junior mobile app and web developer
 
 I'm currently learning kotlin 
 
