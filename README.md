@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Elrique
 
-Junior mobile app and web developer
+- 🎓 I'm an aspiring junior mobile app and web developer
 
-I'm currently learning kotlin 
+- 📚 I'm currently learning kotlin 
 
 <!---
 elriquedolf/elriquedolf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
